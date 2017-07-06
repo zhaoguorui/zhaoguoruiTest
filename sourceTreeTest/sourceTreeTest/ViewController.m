@@ -18,9 +18,13 @@
     [super viewDidLoad];
     NSLog(@"1");
     NSLog(@"liang2");
+<<<<<<< HEAD
     NSLog(@"zhao3");
     NSLog(@"zhao4");
     
+=======
+    NSLog(@"liang5");
+>>>>>>> liang
 }
 
 
