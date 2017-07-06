@@ -20,10 +20,14 @@
     NSLog(@"liang2");
     NSLog(@"zhao3");
     NSLog(@"zhao4");
+<<<<<<< HEAD
     
 
     NSLog(@"liang5");
     NSLog(@"zhao6");
+=======
+    NSLog(@"liang5");
+>>>>>>> dddac03e957e9dce517713a7899c9a788f9894ca
 }
 
 
