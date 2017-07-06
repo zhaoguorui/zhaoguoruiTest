@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"1");
-    NSLog(@"2");
+    NSLog(@"liang2");
     
 }
 
