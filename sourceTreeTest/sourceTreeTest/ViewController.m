@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"1");
     NSLog(@"liang2");
+    NSLog(@"zhao3");
+    NSLog(@"zhao4");
     
 }
 
