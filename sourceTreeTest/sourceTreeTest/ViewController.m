@@ -22,12 +22,9 @@
     NSLog(@"zhao4");
     NSLog(@"liang5");
     NSLog(@"zhao6");
-<<<<<<< HEAD
     NSLog(@"liang6");
-=======
     NSLog(@"sb1");
     NSLog(@"sb2");
->>>>>>> zhao2
 }
 
 
