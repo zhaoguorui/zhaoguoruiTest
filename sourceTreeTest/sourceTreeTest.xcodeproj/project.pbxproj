@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08250A9E1F1281D200D3C8A5 /* sb2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08250A9D1F1281D200D3C8A5 /* sb2.xib */; };
 		085BCF451F0E734D008BE51A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 085BCF441F0E734D008BE51A /* main.m */; };
 		085BCF481F0E734D008BE51A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 085BCF471F0E734D008BE51A /* AppDelegate.m */; };
 		085BCF4B1F0E734D008BE51A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 085BCF4A1F0E734D008BE51A /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08250A9D1F1281D200D3C8A5 /* sb2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = sb2.xib; sourceTree = "<group>"; };
 		085BCF401F0E734D008BE51A /* sourceTreeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sourceTreeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		085BCF441F0E734D008BE51A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		085BCF461F0E734D008BE51A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				085BCF471F0E734D008BE51A /* AppDelegate.m */,
 				085BCF491F0E734D008BE51A /* ViewController.h */,
 				085BCF4A1F0E734D008BE51A /* ViewController.m */,
+				08250A9D1F1281D200D3C8A5 /* sb2.xib */,
 				085BCF4C1F0E734D008BE51A /* Main.storyboard */,
 				085BCF4F1F0E734D008BE51A /* Assets.xcassets */,
 				085BCF511F0E734D008BE51A /* LaunchScreen.storyboard */,
@@ -249,6 +252,7 @@
 				085BCF531F0E734D008BE51A /* LaunchScreen.storyboard in Resources */,
 				085BCF501F0E734D008BE51A /* Assets.xcassets in Resources */,
 				085BCF4E1F0E734D008BE51A /* Main.storyboard in Resources */,
+				08250A9E1F1281D200D3C8A5 /* sb2.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +513,7 @@
 				085BCF6F1F0E734D008BE51A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		085BCF701F0E734D008BE51A /* Build configuration list for PBXNativeTarget "sourceTreeTestTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +522,7 @@
 				085BCF721F0E734D008BE51A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		085BCF731F0E734D008BE51A /* Build configuration list for PBXNativeTarget "sourceTreeTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +531,7 @@
 				085BCF751F0E734D008BE51A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
