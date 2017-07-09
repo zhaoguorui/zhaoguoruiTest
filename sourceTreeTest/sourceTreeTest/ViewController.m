@@ -22,6 +22,7 @@
     NSLog(@"zhao4");
     NSLog(@"liang5");
     NSLog(@"zhao6");
+    NSLog(@"sb1");
 }
 
 
