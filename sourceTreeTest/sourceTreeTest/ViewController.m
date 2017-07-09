@@ -25,6 +25,7 @@
     NSLog(@"liang6");
     NSLog(@"sb1");
     NSLog(@"sb2");
+     NSLog(@"sb3");
 }
 
 
